@@ -41,27 +41,7 @@ More users attract even more developers.
 
 ## Mental Model
 
-Open Platform
-
-↓
-
-More Developers
-
-↓
-
-More Innovation
-
-↓
-
-More Devices
-
-↓
-
-More Users
-
-↓
-
-Android Wins
+**Open Platform → More Developers → More Innovation → More Devices → More Users → Stronger Network Effects → Android Wins**
 
 ---
 
@@ -114,27 +94,7 @@ Even if Apple's ecosystem is more restrictive, developers will tolerate the fric
 
 ## Mental Model
 
-Integrated Hardware + Software
-
-↓
-
-Better User Experience
-
-↓
-
-Higher User Satisfaction
-
-↓
-
-Higher Spending
-
-↓
-
-Developers Build Better Apps
-
-↓
-
-Apple Captures More Value
+**Integrated Hardware + Software → Better User Experience → Happier Customers → Higher Spending → Developers Prioritize iOS → Apple Captures More Value**
 
 ---
 
