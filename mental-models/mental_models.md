@@ -12,6 +12,28 @@ A great team with an average idea often outperforms an average team with a great
 
 ---
 
+## Open Source
+
+Startups use open-source software because it lets them build faster, reduce costs, and focus on their unique competitive advantage instead of reinventing infrastructure.
+
+Open source means: The creator makes the source code publicly available for anyone to see, use, modify, and often redistribute (subject to the license).
+
+---
+
+## Think in Assumptions, Not Predictions
+
+Great investors don't try to predict the future with certainty.
+
+They identify the assumptions a company is making about the future and ask:
+
+- What has to be true for this company to become 100x bigger?
+- Which assumptions are most likely to be wrong?
+- What evidence would change my mind?
+
+Investing is less about knowing the future and more about reasoning under uncertainty.
+
+---
+
 ## A Startup Uses Equity as Currency
 
 Startups often don't have much cash.
