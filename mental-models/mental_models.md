@@ -20,6 +20,26 @@ Open source means: The creator makes the source code publicly available for anyo
 
 ---
 
+## Don't ask:
+
+"What startup should I invest in?"
+
+Ask:
+
+"What is changing in the world?"
+↓
+"What new opportunities does that create?"
+↓
+"Who is building for that future?"
+
+---
+
+## One thing
+
+Banks need repayment, VCs need upside, founders need growth, employees need motivation.
+
+---
+
 ## Think in Assumptions, Not Predictions
 
 Great investors don't try to predict the future with certainty.
